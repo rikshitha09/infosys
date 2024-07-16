@@ -1,0 +1,8 @@
+public class IdentifierDeamo{
+   public static void main(String[] args){
+      int custId = 1001;
+      long telephoneNo = 1234567880L;  
+      float billAmount = 123.35f;     
+      boolean isRegualr = false;
+   }
+}
